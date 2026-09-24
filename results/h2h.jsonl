@@ -1,0 +1,90 @@
+{"kind": "clean", "rep": 0, "method": "gauss", "relfro": 0.19571921589850266, "auc": 0.999746963562753, "secs": 2.03, "family": "bayes", "nu": 5.0}
+{"kind": "clean", "rep": 0, "method": "classical", "relfro": 0.22791856142759842, "auc": 0.9998734817813765, "secs": 2.06, "family": "bayes", "nu": 28.664}
+{"kind": "clean", "rep": 0, "method": "alternative", "relfro": 0.3675336629334441, "auc": 0.9992408906882592, "secs": 3.34, "family": "bayes", "nu": 9.91}
+{"kind": "clean", "rep": 0, "method": "dirichlet", "relfro": 0.24853592465733915, "auc": 0.999746963562753, "secs": 5.33, "family": "bayes", "nu": 24.88, "n_clusters": 2.925}
+{"kind": "clean", "rep": 0, "method": "glasso", "relfro": 0.2971156088477103, "auc": 0.9983552631578947, "secs": 0.04, "family": "freq"}
+{"kind": "clean", "rep": 0, "method": "npn", "relfro": 0.25586843862411623, "auc": 0.9710273279352225, "secs": 0.17, "family": "freq"}
+{"kind": "clean", "rep": 0, "method": "tyler", "relfro": 0.3087648939870101, "auc": 0.9986082995951417, "secs": 0.04, "family": "freq"}
+{"kind": "clean", "rep": 0, "method": "ddc+glasso", "relfro": 0.30670990073952265, "auc": 0.9684969635627529, "secs": 0.03, "family": "freq"}
+{"kind": "clean", "rep": 0, "method": "cellMCD+glasso", "relfro": 0.3058274155684535, "auc": 0.9683704453441295, "secs": 4.01, "family": "freq"}
+{"kind": "clean", "rep": 0, "method": "2SGS+glasso", "relfro": 0.2978769566671896, "auc": 0.971153846153846, "secs": 0.31, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "gauss", "relfro": 0.23246440906664378, "auc": 0.9835518748562226, "secs": 1.95, "family": "bayes", "nu": 5.0}
+{"kind": "clean", "rep": 1, "method": "classical", "relfro": 0.2625106627693301, "auc": 0.988037727168162, "secs": 2.33, "family": "bayes", "nu": 28.872}
+{"kind": "clean", "rep": 1, "method": "alternative", "relfro": 0.3710452576367453, "auc": 0.9834368530020704, "secs": 6.67, "family": "bayes", "nu": 10.962}
+{"kind": "clean", "rep": 1, "method": "dirichlet", "relfro": 0.28734337446620967, "auc": 0.9866574649183345, "secs": 10.11, "family": "bayes", "nu": 27.768, "n_clusters": 2.9583333333333335}
+{"kind": "clean", "rep": 1, "method": "glasso", "relfro": 0.29277573036519866, "auc": 0.9450195537152057, "secs": 0.08, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "npn", "relfro": 0.2651521912387614, "auc": 0.9202898550724637, "secs": 0.23, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "tyler", "relfro": 0.33103185771425325, "auc": 0.9194271911663215, "secs": 0.08, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "ddc+glasso", "relfro": 0.315288942629102, "auc": 0.8967103749712446, "secs": 0.07, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "cellMCD+glasso", "relfro": 0.30057185537641207, "auc": 0.9348976305498043, "secs": 7.5, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "2SGS+glasso", "relfro": 0.3417864071682883, "auc": 0.9162640901771337, "secs": 0.73, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "gauss", "relfro": 0.17987892823576576, "auc": 0.9992408906882592, "secs": 4.33, "family": "bayes", "nu": 5.0}
+{"kind": "clean", "rep": 2, "method": "classical", "relfro": 0.2264386890823529, "auc": 0.9992408906882592, "secs": 5.04, "family": "bayes", "nu": 28.616}
+{"kind": "clean", "rep": 2, "method": "alternative", "relfro": 0.2711155995440157, "auc": 0.9993674089068826, "secs": 10.58, "family": "bayes", "nu": 17.776}
+{"kind": "clean", "rep": 2, "method": "dirichlet", "relfro": 0.21138526668163174, "auc": 0.9993674089068826, "secs": 17.93, "family": "bayes", "nu": 27.696, "n_clusters": 2.8}
+{"kind": "clean", "rep": 2, "method": "glasso", "relfro": 0.26896708381202195, "auc": 0.9991143724696356, "secs": 0.1, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "npn", "relfro": 0.22639840577553205, "auc": 0.9972165991902834, "secs": 0.37, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "tyler", "relfro": 0.2890974786562771, "auc": 0.9982287449392713, "secs": 0.11, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "ddc+glasso", "relfro": 0.2714226291305298, "auc": 0.996584008097166, "secs": 0.1, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "cellMCD+glasso", "relfro": 0.2741943222298699, "auc": 0.9905111336032388, "secs": 7.66, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "2SGS+glasso", "relfro": 0.2626725485982262, "auc": 0.9979757085020243, "secs": 0.4, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "gauss", "relfro": 0.6962867362793681, "auc": 0.9267459514170041, "secs": 3.76, "family": "bayes", "nu": 5.0}
+{"kind": "cell", "rep": 0, "method": "classical", "relfro": 0.3967907404766785, "auc": 0.9660931174089069, "secs": 5.59, "family": "bayes", "nu": 2.974}
+{"kind": "cell", "rep": 0, "method": "alternative", "relfro": 0.4813579209795479, "auc": 0.9348431174089068, "secs": 5.26, "family": "bayes", "nu": 4.968}
+{"kind": "cell", "rep": 0, "method": "dirichlet", "relfro": 0.2606722633434878, "auc": 0.9979757085020243, "secs": 5.99, "family": "bayes", "nu": 2.5, "n_clusters": 2.95}
+{"kind": "cell", "rep": 0, "method": "glasso", "relfro": 0.7273324622978522, "auc": 0.7509488866396761, "secs": 0.06, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "npn", "relfro": 0.2326156007659535, "auc": 0.944585020242915, "secs": 0.26, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "tyler", "relfro": 0.3812761078246602, "auc": 0.9449645748987854, "secs": 0.04, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "ddc+glasso", "relfro": 0.3299526590363002, "auc": 0.9402834008097166, "secs": 0.03, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "cellMCD+glasso", "relfro": 0.3158373503691869, "auc": 0.9660931174089068, "secs": 7.83, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "2SGS+glasso", "relfro": 0.2953904152151738, "auc": 0.9692560728744939, "secs": 1.1, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "gauss", "relfro": 0.6134102920988994, "auc": 0.9122383252818036, "secs": 5.88, "family": "bayes", "nu": 5.0}
+{"kind": "cell", "rep": 1, "method": "classical", "relfro": 0.33813762225221083, "auc": 0.9700943179204049, "secs": 2.63, "family": "bayes", "nu": 4.406}
+{"kind": "cell", "rep": 1, "method": "alternative", "relfro": 0.4547642386961247, "auc": 0.9546813894639983, "secs": 4.09, "family": "bayes", "nu": 6.156}
+{"kind": "cell", "rep": 1, "method": "dirichlet", "relfro": 0.44301325981952805, "auc": 0.9796411318150449, "secs": 7.06, "family": "bayes", "nu": 2.5, "n_clusters": 3.033333333333333}
+{"kind": "cell", "rep": 1, "method": "glasso", "relfro": 0.6544051082159398, "auc": 0.7395905221992178, "secs": 0.03, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "npn", "relfro": 0.25591206209003653, "auc": 0.9193121693121693, "secs": 0.14, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "tyler", "relfro": 0.3683666318473726, "auc": 0.8719231654014261, "secs": 0.04, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "ddc+glasso", "relfro": 0.3086850041419787, "auc": 0.8977455716586151, "secs": 0.06, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "cellMCD+glasso", "relfro": 0.3121788737985853, "auc": 0.9549114331723026, "secs": 7.14, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "2SGS+glasso", "relfro": 0.3351148671361776, "auc": 0.8910743041177823, "secs": 0.96, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "gauss", "relfro": 0.7368036938583026, "auc": 0.84665991902834, "secs": 2.71, "family": "bayes", "nu": 5.0}
+{"kind": "cell", "rep": 2, "method": "classical", "relfro": 0.4463055885109186, "auc": 0.9305414979757085, "secs": 4.65, "family": "bayes", "nu": 3.006}
+{"kind": "cell", "rep": 2, "method": "alternative", "relfro": 0.49561911992682717, "auc": 0.9588815789473684, "secs": 3.83, "family": "bayes", "nu": 4.088}
+{"kind": "cell", "rep": 2, "method": "dirichlet", "relfro": 0.2514352243411624, "auc": 0.9969635627530364, "secs": 8.16, "family": "bayes", "nu": 2.5, "n_clusters": 3.0}
+{"kind": "cell", "rep": 2, "method": "glasso", "relfro": 0.763212546846789, "auc": 0.6492914979757086, "secs": 0.08, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "npn", "relfro": 0.22138153818118583, "auc": 0.9964574898785425, "secs": 0.17, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "tyler", "relfro": 0.4369003807762049, "auc": 0.6565662955465588, "secs": 0.05, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "ddc+glasso", "relfro": 0.29051904042277227, "auc": 0.9968370445344129, "secs": 0.05, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "cellMCD+glasso", "relfro": 0.2894283285630824, "auc": 0.9862095141700405, "secs": 7.0, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "2SGS+glasso", "relfro": 0.2714852654225008, "auc": 0.9956983805668016, "secs": 0.93, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "gauss", "relfro": 0.4388654531726547, "auc": 0.8980263157894737, "secs": 4.2, "family": "bayes", "nu": 5.0}
+{"kind": "row", "rep": 0, "method": "classical", "relfro": 0.28682618180752756, "auc": 0.9987348178137652, "secs": 4.99, "family": "bayes", "nu": 8.734}
+{"kind": "row", "rep": 0, "method": "alternative", "relfro": 0.5485355661994343, "auc": 0.9225708502024291, "secs": 8.26, "family": "bayes", "nu": 9.382}
+{"kind": "row", "rep": 0, "method": "dirichlet", "relfro": 0.3391446630710709, "auc": 0.9717864372469636, "secs": 9.49, "family": "bayes", "nu": 10.416, "n_clusters": 2.825}
+{"kind": "row", "rep": 0, "method": "glasso", "relfro": 0.4375222738087608, "auc": 0.8112348178137652, "secs": 1.18, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "npn", "relfro": 0.2699908251758547, "auc": 0.9421811740890689, "secs": 0.19, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "tyler", "relfro": 0.3174494554969842, "auc": 0.9983552631578948, "secs": 0.18, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "ddc+glasso", "relfro": 0.31834320066519645, "auc": 0.969445850202429, "secs": 0.06, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "cellMCD+glasso", "relfro": 0.46802372329465575, "auc": 0.7491143724696356, "secs": 6.5, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "2SGS+glasso", "relfro": 0.28951385168428617, "auc": 0.9717231781376517, "secs": 0.69, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "gauss", "relfro": 0.3983878291184363, "auc": 0.8252818035426731, "secs": 3.07, "family": "bayes", "nu": 5.0}
+{"kind": "row", "rep": 1, "method": "classical", "relfro": 0.29396521969466965, "auc": 0.9468599033816425, "secs": 4.13, "family": "bayes", "nu": 9.19}
+{"kind": "row", "rep": 1, "method": "alternative", "relfro": 0.5141671747451579, "auc": 0.8584080975385323, "secs": 6.58, "family": "bayes", "nu": 8.69}
+{"kind": "row", "rep": 1, "method": "dirichlet", "relfro": 0.39908108060986325, "auc": 0.9682539682539683, "secs": 7.49, "family": "bayes", "nu": 7.362, "n_clusters": 2.9833333333333334}
+{"kind": "row", "rep": 1, "method": "glasso", "relfro": 0.40907562063859526, "auc": 0.7746721877156659, "secs": 0.52, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "npn", "relfro": 0.2682113741952165, "auc": 0.8947550034506555, "secs": 0.16, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "tyler", "relfro": 0.3396070147736159, "auc": 0.9182194616977225, "secs": 0.05, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "ddc+glasso", "relfro": 0.3154715891539952, "auc": 0.8964803312629399, "secs": 0.04, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "cellMCD+glasso", "relfro": 0.6940135182365733, "auc": 0.8489763054980445, "secs": 8.59, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "2SGS+glasso", "relfro": 0.33855473475734327, "auc": 0.9165516448125145, "secs": 0.88, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "gauss", "relfro": 0.40308442383405907, "auc": 0.912828947368421, "secs": 4.66, "family": "bayes", "nu": 5.0}
+{"kind": "row", "rep": 2, "method": "classical", "relfro": 0.27354931024533247, "auc": 0.9988613360323887, "secs": 4.03, "family": "bayes", "nu": 8.842}
+{"kind": "row", "rep": 2, "method": "alternative", "relfro": 0.5140668161492111, "auc": 0.951923076923077, "secs": 5.51, "family": "bayes", "nu": 9.476}
+{"kind": "row", "rep": 2, "method": "dirichlet", "relfro": 0.29085389164619985, "auc": 0.9989878542510121, "secs": 13.16, "family": "bayes", "nu": 9.092, "n_clusters": 2.908333333333333}
+{"kind": "row", "rep": 2, "method": "glasso", "relfro": 0.40306751625879195, "auc": 0.860134109311741, "secs": 0.49, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "npn", "relfro": 0.238032512184626, "auc": 0.9953188259109311, "secs": 0.29, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "tyler", "relfro": 0.2995218841008975, "auc": 0.9981022267206479, "secs": 0.09, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "ddc+glasso", "relfro": 0.28178912865466743, "auc": 0.9983552631578948, "secs": 0.17, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "cellMCD+glasso", "relfro": 0.6745785048435959, "auc": 0.9157388663967612, "secs": 9.14, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "2SGS+glasso", "relfro": 0.2646248981719593, "auc": 0.9986082995951416, "secs": 0.52, "family": "freq"}

@@ -1,0 +1,30 @@
+{
+ "vols": {
+  "gauss": 0.1714059217508575,
+  "classical": 0.18035123989591623,
+  "alternative": 0.17507078757721345,
+  "dirichlet": 0.1669563111428074
+ },
+ "dm": {
+  "gauss vs classical": -2.0655507041101755,
+  "gauss vs alternative": -0.8087713593331813,
+  "gauss vs dirichlet": 2.6815330658489125,
+  "classical vs alternative": 2.5587553229672015,
+  "classical vs dirichlet": 2.313943844644068,
+  "alternative vs dirichlet": 1.4256510792436627
+ },
+ "n_days": 36,
+ "n_windows": 9,
+ "n_est": 250,
+ "n_oos": 21,
+ "iters": [
+  300,
+  120
+ ],
+ "n stocks": 95,
+ "dirichlet_clusters": 3.496,
+ "window_dates": [
+  "2025-06-19",
+  "2026-06-19"
+ ]
+}

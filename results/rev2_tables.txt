@@ -1,0 +1,219 @@
+/Users/ramakrushnamishra/Downloads/Cell_Wise_Local_Global/fig_rev2.py:60: RuntimeWarning: invalid value encountered in divide
+  rho = 1 - (ch.var(axis=1, ddof=1).mean() - acf) / var
+
+=== MCMC diagnostics (4 chains, p=40, cellwise, Dirichlet-t) ===
+$\nu$                                    Rhat=nan ESS=nan
+$\log\tau_\Omega^2$                      Rhat=1.124 ESS=65
+$\log|\Omega|$                           Rhat=1.010 ESS=173
+clusters per obs.                        Rhat=1.003 ESS=890
+$\omega_{3,40}$ (true -0.32)             Rhat=1.004 ESS=558
+$\omega_{17,18}$ (true 0.32)             Rhat=1.001 ESS=1008
+$\omega_{21,32}$ (true -0.32)            Rhat=1.001 ESS=911
+$\omega_{1,2}$ (true 0.00)               Rhat=1.003 ESS=1292
+
+=== FIXNU: relfro and AUC (mean +- sd) ===
+-- cell
+20 gaus 0.714\,\tiny$\pm$0.033 / 0.932\,\tiny$\pm$0.049 (n=10) | clas 0.436\,\tiny$\pm$0.057 / 0.994\,\tiny$\pm$0.009 (n=10) | alte 0.357\,\tiny$\pm$0.052 / 0.995\,\tiny$\pm$0.007 (n=10) | diri 0.258\,\tiny$\pm$0.035 / 0.999\,\tiny$\pm$0.001 (n=10)
+40 gaus 0.750\,\tiny$\pm$0.017 / 0.834\,\tiny$\pm$0.043 (n=10) | clas 0.598\,\tiny$\pm$0.025 / 0.924\,\tiny$\pm$0.037 (n=10) | alte 0.389\,\tiny$\pm$0.035 / 0.974\,\tiny$\pm$0.018 (n=10) | diri 0.347\,\tiny$\pm$0.026 / 0.990\,\tiny$\pm$0.012 (n=10)
+80 gaus 0.736\,\tiny$\pm$0.019 / 0.750\,\tiny$\pm$0.033 (n=5) | clas 0.632\,\tiny$\pm$0.018 / 0.793\,\tiny$\pm$0.030 (n=5) | alte 0.389\,\tiny$\pm$0.022 / 0.925\,\tiny$\pm$0.018 (n=5) | diri 0.400\,\tiny$\pm$0.009 / 0.952\,\tiny$\pm$0.019 (n=5)
+120 gaus 0.740\,\tiny$\pm$0.016 / 0.691\,\tiny$\pm$0.023 (n=5) | clas 0.629\,\tiny$\pm$0.022 / 0.733\,\tiny$\pm$0.039 (n=5) | alte 0.403\,\tiny$\pm$0.010 / 0.885\,\tiny$\pm$0.025 (n=5) | diri 0.422\,\tiny$\pm$0.007 / 0.924\,\tiny$\pm$0.025 (n=5)
+-- row
+20 gaus 0.445\,\tiny$\pm$0.021 / 0.917\,\tiny$\pm$0.082 (n=10) | clas 0.174\,\tiny$\pm$0.029 / 1.000\,\tiny$\pm$0.001 (n=10) | alte 0.424\,\tiny$\pm$0.040 / 0.960\,\tiny$\pm$0.058 (n=10) | diri 0.257\,\tiny$\pm$0.060 / 0.991\,\tiny$\pm$0.012 (n=10)
+40 gaus 0.411\,\tiny$\pm$0.016 / 0.922\,\tiny$\pm$0.028 (n=10) | clas 0.237\,\tiny$\pm$0.017 / 0.998\,\tiny$\pm$0.002 (n=10) | alte 0.487\,\tiny$\pm$0.029 / 0.943\,\tiny$\pm$0.022 (n=10) | diri 0.279\,\tiny$\pm$0.036 / 0.988\,\tiny$\pm$0.013 (n=10)
+80 gaus 0.394\,\tiny$\pm$0.007 / 0.881\,\tiny$\pm$0.024 (n=5) | clas 0.345\,\tiny$\pm$0.011 / 0.974\,\tiny$\pm$0.007 (n=5) | alte 0.491\,\tiny$\pm$0.014 / 0.891\,\tiny$\pm$0.021 (n=5) | diri 0.332\,\tiny$\pm$0.019 / 0.971\,\tiny$\pm$0.004 (n=5)
+120 gaus 0.400\,\tiny$\pm$0.006 / 0.859\,\tiny$\pm$0.023 (n=5) | clas 0.421\,\tiny$\pm$0.018 / 0.949\,\tiny$\pm$0.018 (n=5) | alte 0.507\,\tiny$\pm$0.017 / 0.868\,\tiny$\pm$0.021 (n=5) | diri 0.395\,\tiny$\pm$0.023 / 0.946\,\tiny$\pm$0.017 (n=5)
+-- clean
+20 gaus 0.149\,\tiny$\pm$0.016 / 1.000\,\tiny$\pm$0.000 (n=10) | clas 0.214\,\tiny$\pm$0.026 / 1.000\,\tiny$\pm$0.000 (n=10) | alte 0.314\,\tiny$\pm$0.043 / 1.000\,\tiny$\pm$0.000 (n=10) | diri 0.263\,\tiny$\pm$0.035 / 1.000\,\tiny$\pm$0.000 (n=10)
+40 gaus 0.193\,\tiny$\pm$0.018 / 0.999\,\tiny$\pm$0.002 (n=10) | clas 0.255\,\tiny$\pm$0.015 / 0.999\,\tiny$\pm$0.001 (n=10) | alte 0.350\,\tiny$\pm$0.031 / 0.999\,\tiny$\pm$0.002 (n=10) | diri 0.299\,\tiny$\pm$0.021 / 0.999\,\tiny$\pm$0.002 (n=10)
+80 gaus 0.272\,\tiny$\pm$0.013 / 0.980\,\tiny$\pm$0.005 (n=5) | clas 0.371\,\tiny$\pm$0.014 / 0.980\,\tiny$\pm$0.007 (n=5) | alte 0.399\,\tiny$\pm$0.015 / 0.979\,\tiny$\pm$0.006 (n=5) | diri 0.363\,\tiny$\pm$0.012 / 0.980\,\tiny$\pm$0.004 (n=5)
+120 gaus 0.314\,\tiny$\pm$0.017 / 0.960\,\tiny$\pm$0.017 (n=5) | clas 0.453\,\tiny$\pm$0.023 / 0.958\,\tiny$\pm$0.018 (n=5) | alte 0.431\,\tiny$\pm$0.024 / 0.957\,\tiny$\pm$0.018 (n=5) | diri 0.427\,\tiny$\pm$0.015 / 0.958\,\tiny$\pm$0.018 (n=5)
+-- cell detection AUC and cells discarded
+                   detect_auc  cells_disc  weight    nu
+p     model                                            
+20.0  alternative       0.978       0.017   0.959  10.0
+      classical         0.867       0.306   0.771  10.0
+      dirichlet         1.000       0.022   0.957  10.0
+      gauss               NaN         NaN     NaN  10.0
+40.0  alternative       0.986       0.020   0.956  10.0
+      classical         0.768       0.265   0.725  10.0
+      dirichlet         1.000       0.023   0.972  10.0
+      gauss               NaN         NaN     NaN  10.0
+80.0  alternative       0.995       0.020   0.950  10.0
+      classical         0.711       0.253   0.734  10.0
+      dirichlet         1.000       0.020   0.979  10.0
+      gauss               NaN         NaN     NaN  10.0
+120.0 alternative       0.997       0.020   0.949  10.0
+      classical         0.677       0.245   0.697  10.0
+      dirichlet         1.000       0.021   0.980  10.0
+      gauss               NaN         NaN     NaN  10.0
+
+=== NUPRIOR: relfro and AUC (mean +- sd) ===
+-- cell
+80 clas 0.788\,\tiny$\pm$0.085 / 0.800\,\tiny$\pm$0.031 (n=5) | alte 0.473\,\tiny$\pm$0.017 / 0.897\,\tiny$\pm$0.029 (n=5) | diri 0.301\,\tiny$\pm$0.012 / 0.968\,\tiny$\pm$0.012 (n=5)
+120 clas 7.173\,\tiny$\pm$0.605 / 0.738\,\tiny$\pm$0.030 (n=5) | alte 0.531\,\tiny$\pm$0.028 / 0.911\,\tiny$\pm$0.027 (n=5) | diri 0.373\,\tiny$\pm$0.024 / 0.937\,\tiny$\pm$0.021 (n=5)
+-- row
+80 clas 0.787\,\tiny$\pm$0.219 / 0.975\,\tiny$\pm$0.008 (n=5) | alte 0.493\,\tiny$\pm$0.012 / 0.891\,\tiny$\pm$0.023 (n=5) | diri 0.323\,\tiny$\pm$0.025 / 0.966\,\tiny$\pm$0.006 (n=5)
+120 clas 4.836\,\tiny$\pm$0.395 / 0.950\,\tiny$\pm$0.018 (n=5) | alte 0.507\,\tiny$\pm$0.017 / 0.869\,\tiny$\pm$0.024 (n=5) | diri 0.401\,\tiny$\pm$0.020 / 0.948\,\tiny$\pm$0.018 (n=5)
+-- clean
+80 clas 0.491\,\tiny$\pm$0.166 / 0.981\,\tiny$\pm$0.006 (n=5) | alte 0.401\,\tiny$\pm$0.016 / 0.980\,\tiny$\pm$0.008 (n=5) | diri 0.286\,\tiny$\pm$0.013 / 0.982\,\tiny$\pm$0.006 (n=5)
+120 clas 4.876\,\tiny$\pm$0.392 / 0.959\,\tiny$\pm$0.018 (n=5) | alte 0.434\,\tiny$\pm$0.021 / 0.956\,\tiny$\pm$0.019 (n=5) | diri 1.037\,\tiny$\pm$0.434 / 0.958\,\tiny$\pm$0.017 (n=5)
+-- cell detection AUC and cells discarded
+                   detect_auc  cells_disc  weight     nu
+p     model                                             
+80.0  alternative       0.964       0.034   0.923  4.319
+      classical         0.712       0.761   0.369  2.726
+      dirichlet         1.000       0.022   0.944  2.500
+120.0 alternative       0.995       0.065   0.882  3.500
+      classical         0.677       1.000   0.056  2.500
+      dirichlet         1.000       0.022   0.904  2.500
+
+--- paired tests, FIXNU cellwise, Dirichlet vs others
+p=20 relfro D vs classical: 0.258 vs 0.436 t=-18.33 p=0.0000
+p=20 auc D vs classical: 0.999 vs 0.994 t=1.88 p=0.0934
+p=20 relfro D vs alternative: 0.258 vs 0.357 t=-8.29 p=0.0000
+p=20 auc D vs alternative: 0.999 vs 0.995 t=1.84 p=0.0995
+p=40 relfro D vs classical: 0.347 vs 0.598 t=-32.29 p=0.0000
+p=40 auc D vs classical: 0.990 vs 0.924 t=5.86 p=0.0002
+p=40 relfro D vs alternative: 0.347 vs 0.389 t=-3.51 p=0.0067
+p=40 auc D vs alternative: 0.990 vs 0.974 t=5.06 p=0.0007
+p=80 relfro D vs classical: 0.400 vs 0.632 t=-29.66 p=0.0000
+p=80 auc D vs classical: 0.952 vs 0.793 t=27.68 p=0.0000
+p=80 relfro D vs alternative: 0.400 vs 0.389 t=1.19 p=0.3016
+p=80 auc D vs alternative: 0.952 vs 0.925 t=7.58 p=0.0016
+p=120 relfro D vs classical: 0.422 vs 0.629 t=-28.37 p=0.0000
+p=120 auc D vs classical: 0.924 vs 0.733 t=25.80 p=0.0000
+p=120 relfro D vs alternative: 0.422 vs 0.403 t=7.39 p=0.0018
+p=120 auc D vs alternative: 0.924 vs 0.885 t=27.51 p=0.0000
+
+=== alpha prior (K=10, nu=10) ===
+         job    p   kind                  relfro                     auc clusters                alpha prior_clusters_at_alpha
+0      ALPHA   40   cell  0.264\,\tiny$\pm$0.039  0.994\,\tiny$\pm$0.006     8.69  14.32 [9.13, 20.37]                    8.65
+1      ALPHA   40  clean  0.309\,\tiny$\pm$0.030  0.999\,\tiny$\pm$0.001     5.56    2.88 [1.64, 4.75]                    5.70
+2      ALPHA   80   cell  0.330\,\tiny$\pm$0.013  0.952\,\tiny$\pm$0.021     9.31  12.85 [8.88, 17.08]                    9.29
+3      ALPHA   80  clean  0.376\,\tiny$\pm$0.020  0.980\,\tiny$\pm$0.008     7.22    4.49 [3.45, 5.83]                    7.51
+4      ALPHA  120   cell  0.353\,\tiny$\pm$0.010  0.920\,\tiny$\pm$0.024     9.21   8.98 [6.97, 11.83]                    9.17
+5      ALPHA  120  clean  0.415\,\tiny$\pm$0.015  0.958\,\tiny$\pm$0.017     7.74    4.35 [3.25, 6.02]                    7.84
+6   ALPHAFIX   40   cell  0.326\,\tiny$\pm$0.035  0.994\,\tiny$\pm$0.005     3.85                  NaN                    3.54
+7   ALPHAFIX   40  clean  0.299\,\tiny$\pm$0.026  0.999\,\tiny$\pm$0.000     3.57                  NaN                    3.54
+8   ALPHAFIX   80   cell  0.381\,\tiny$\pm$0.013  0.954\,\tiny$\pm$0.022     4.34                  NaN                    3.97
+9   ALPHAFIX   80  clean  0.366\,\tiny$\pm$0.013  0.981\,\tiny$\pm$0.007     4.00                  NaN                    3.97
+10  ALPHAFIX  120   cell  0.407\,\tiny$\pm$0.008  0.923\,\tiny$\pm$0.027     4.58                  NaN                    4.20
+11  ALPHAFIX  120  clean  0.415\,\tiny$\pm$0.013  0.958\,\tiny$\pm$0.019     4.23                  NaN                    4.20
+
+=== enlarged head-to-head (relfro/AUC, 10 reps) ===
+    design              method        clean         cell          row
+0   30/120            Gaussian  0.200/0.998  0.705/0.856  0.404/0.922
+1   30/120       classical-$t$  0.227/0.999  0.460/0.956  0.240/0.998
+2   30/120     alternative-$t$  0.345/0.999  0.477/0.967  0.510/0.945
+3   30/120       Dirichlet-$t$  0.233/0.999  0.265/0.996  0.285/0.991
+4   30/120         sample (CV)  0.257/0.998  0.741/0.550  0.722/0.489
+5   30/120        sample (BIC)  0.286/0.994  0.734/0.641  0.432/0.837
+6   30/120        SKEPTIC (CV)  0.308/0.996  0.342/0.986  0.338/0.989
+7   30/120       SKEPTIC (BIC)  0.315/0.993  0.348/0.984  0.343/0.980
+8   30/120   SKEPTIC-corr (CV)  0.260/0.998  0.244/0.988  0.249/0.989
+9   30/120  SKEPTIC-corr (BIC)  0.235/0.993  0.231/0.983  0.236/0.981
+10  30/120          Tyler (CV)  0.311/0.993  0.400/0.915  0.331/0.991
+11  30/120         Tyler (BIC)  0.317/0.989  0.425/0.822  0.331/0.991
+12  30/120            DDC (CV)  0.274/0.992  0.273/0.995  0.274/0.992
+13  30/120           DDC (BIC)  0.295/0.988  0.295/0.991  0.294/0.988
+14  30/120           2SGS (CV)  0.276/0.989  0.276/0.994  0.276/0.992
+15  30/120          2SGS (BIC)  0.295/0.985  0.296/0.988  0.296/0.988
+16  30/120        cellMCD (CV)  0.444/0.976  0.484/0.966  0.357/0.984
+17  30/120       cellMCD (BIC)  0.316/0.979  0.337/0.963  0.325/0.968
+18  60/300            Gaussian  0.146/1.000  0.763/0.858  0.410/0.916
+19  60/300       classical-$t$  0.161/1.000  0.603/0.948  0.169/1.000
+20  60/300     alternative-$t$  0.294/1.000  0.562/0.965  0.495/0.978
+21  60/300       Dirichlet-$t$  0.169/1.000  0.182/0.999  0.292/0.981
+22  60/300         sample (CV)  0.222/1.000  0.786/0.566  0.799/0.497
+23  60/300        sample (BIC)  0.270/0.998  0.787/0.530  0.481/0.831
+24  60/300        SKEPTIC (CV)  0.241/1.000  0.294/0.998  0.290/0.996
+25  60/300       SKEPTIC (BIC)  0.282/0.998  0.334/0.995  0.319/0.994
+26  60/300   SKEPTIC-corr (CV)  0.325/0.999  0.282/0.998  0.306/0.997
+27  60/300  SKEPTIC-corr (BIC)  0.262/0.998  0.242/0.995  0.258/0.994
+28  60/300          Tyler (CV)  0.241/0.999  0.420/0.929  0.266/0.999
+29  60/300         Tyler (BIC)  0.283/0.997  0.454/0.823  0.309/0.996
+30  60/300            DDC (CV)  0.230/0.999  0.231/0.999  0.224/0.999
+31  60/300           DDC (BIC)  0.270/0.995  0.270/0.994  0.263/0.995
+32  60/300           2SGS (CV)  0.230/0.999  0.230/0.999  0.227/0.999
+33  60/300          2SGS (BIC)  0.269/0.995  0.269/0.995  0.267/0.996
+34  60/300        cellMCD (CV)  0.366/0.991  0.432/0.987  0.330/0.992
+35  60/300       cellMCD (BIC)  0.271/0.993  0.278/0.993  0.280/0.992
+
+sd of relfro, cellwise:
+P     method     
+30.0  alternative    0.037
+      classical      0.059
+      dirichlet      0.026
+      gauss          0.041
+60.0  alternative    0.031
+      classical      0.034
+      dirichlet      0.018
+      gauss          0.020
+P     method      
+30.0  2SGS            0.024
+      DDC             0.025
+      SKEPTIC         0.019
+      SKEPTIC-corr    0.033
+      Tyler           0.031
+      cellMCD         0.158
+      sample          0.035
+60.0  2SGS            0.010
+      DDC             0.010
+      SKEPTIC         0.010
+      SKEPTIC-corr    0.020
+      Tyler           0.025
+      cellMCD         0.145
+      sample          0.020
+
+cell detection AUC, cellwise:
+P     method     
+30.0  alternative    0.951
+      classical      0.819
+      dirichlet      1.000
+      gauss            NaN
+60.0  alternative    0.948
+      classical      0.735
+      dirichlet      1.000
+      gauss            NaN
+P     method      
+30.0  2SGS              NaN
+      DDC             1.000
+      SKEPTIC           NaN
+      SKEPTIC-corr      NaN
+      Tyler             NaN
+      cellMCD         0.999
+      sample            NaN
+60.0  2SGS              NaN
+      DDC             1.000
+      SKEPTIC           NaN
+      SKEPTIC-corr      NaN
+      Tyler             NaN
+      cellMCD         1.000
+      sample            NaN
+
+secs: {(30.0, 'alternative'): 14.2, (30.0, 'classical'): 9.8, (30.0, 'dirichlet'): 21.4, (30.0, 'gauss'): 9.2, (60.0, 'alternative'): 49.0, (60.0, 'classical'): 35.9, (60.0, 'dirichlet'): 101.4, (60.0, 'gauss'): 31.2}
+
+=== fault injection (breast cancer, decimal-point faults, 5 seeds) ===
+          method    pi          shift top10_overlap detect
+0           2SGS  0.02  0.127\pm0.011          0.93       
+1           2SGS  0.05  0.223\pm0.006          0.91       
+2            DDC  0.02  0.242\pm0.084          0.85  0.997
+3            DDC  0.05  0.381\pm0.005          0.79  0.996
+4        SKEPTIC  0.02  0.582\pm0.024          0.68       
+5        SKEPTIC  0.05  0.696\pm0.012          0.66       
+6   SKEPTIC-corr  0.02  0.577\pm0.015          0.67       
+7   SKEPTIC-corr  0.05  0.685\pm0.011          0.67       
+8          Tyler  0.02  0.324\pm0.033          0.79       
+9          Tyler  0.05  0.679\pm0.019          0.65       
+10   alternative  0.02  0.794\pm0.022          0.50  0.938
+11   alternative  0.05  0.827\pm0.013          0.46  0.972
+12       cellMCD  0.02  0.069\pm0.010          0.96  1.000
+13       cellMCD  0.05  0.093\pm0.013          0.94  0.999
+14     classical  0.02  0.549\pm0.016          0.79  0.809
+15     classical  0.05  0.815\pm0.010          0.58  0.711
+16     dirichlet  0.02  0.299\pm0.029          0.86  0.998
+17     dirichlet  0.05  0.407\pm0.004          0.81  0.996
+18         gauss  0.02  0.836\pm0.007          0.48       
+19         gauss  0.05  0.893\pm0.009          0.45       
+20        sample  0.02  0.810\pm0.010          0.54       
+21        sample  0.05  0.874\pm0.004          0.44       

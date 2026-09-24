@@ -1,0 +1,27 @@
+{"kind": "clean", "rep": 0, "method": "cellMCD(cellWise)", "relfro": 0.3317553873203671, "auc": 0.9347165991902835, "secs": null, "family": "freq"}
+{"kind": "clean", "rep": 0, "method": "2SGS(DDC+GSE)", "relfro": 0.30985534977326396, "auc": 0.9680541497975709, "secs": null, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "cellMCD(cellWise)", "relfro": 0.3274358729729609, "auc": 0.9354727398205659, "secs": null, "family": "freq"}
+{"kind": "clean", "rep": 1, "method": "2SGS(DDC+GSE)", "relfro": 0.31375658432223597, "auc": 0.8725557855992638, "secs": null, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "cellMCD(cellWise)", "relfro": 0.3061815635525325, "auc": 0.9879807692307693, "secs": null, "family": "freq"}
+{"kind": "clean", "rep": 2, "method": "2SGS(DDC+GSE)", "relfro": 0.2764877518798235, "auc": 0.9973431174089069, "secs": null, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "cellMCD(cellWise)", "relfro": 0.3280897447183774, "auc": 0.9339574898785425, "secs": null, "family": "freq"}
+{"kind": "cell", "rep": 0, "method": "2SGS(DDC+GSE)", "relfro": 0.3144031990202498, "auc": 0.9426872469635628, "secs": null, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "cellMCD(cellWise)", "relfro": 0.3274056223574113, "auc": 0.9014262709914884, "secs": null, "family": "freq"}
+{"kind": "cell", "rep": 1, "method": "2SGS(DDC+GSE)", "relfro": 0.3134957259527604, "auc": 0.8967103749712445, "secs": null, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "cellMCD(cellWise)", "relfro": 0.3271175799615193, "auc": 0.9330718623481782, "secs": null, "family": "freq"}
+{"kind": "cell", "rep": 2, "method": "2SGS(DDC+GSE)", "relfro": 0.28320860792502045, "auc": 0.9950657894736842, "secs": null, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "cellMCD(cellWise)", "relfro": 0.34740030556802404, "auc": 0.9076417004048583, "secs": null, "family": "freq"}
+{"kind": "row", "rep": 0, "method": "2SGS(DDC+GSE)", "relfro": 0.3079864918036004, "auc": 0.9690030364372468, "secs": null, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "cellMCD(cellWise)", "relfro": 0.3854347635596816, "auc": 0.7359673337934208, "secs": null, "family": "freq"}
+{"kind": "row", "rep": 1, "method": "2SGS(DDC+GSE)", "relfro": 0.3115223644896326, "auc": 0.8976305498044629, "secs": null, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "cellMCD(cellWise)", "relfro": 0.30813406265083293, "auc": 0.9651442307692306, "secs": null, "family": "freq"}
+{"kind": "row", "rep": 2, "method": "2SGS(DDC+GSE)", "relfro": 0.2722386465466046, "auc": 0.9973431174089069, "secs": null, "family": "freq"}
+{"kind": "clean", "rep": 0, "method": "DDC(cellWise)", "relfro": 0.31249526882760525, "auc": 0.967990890688259}
+{"kind": "clean", "rep": 1, "method": "DDC(cellWise)", "relfro": 0.31016814177474084, "auc": 0.8724407637451115}
+{"kind": "clean", "rep": 2, "method": "DDC(cellWise)", "relfro": 0.2729178270052291, "auc": 0.9981022267206479}
+{"kind": "cell", "rep": 0, "method": "DDC(cellWise)", "relfro": 0.3179051756454054, "auc": 0.9426872469635629}
+{"kind": "cell", "rep": 1, "method": "DDC(cellWise)", "relfro": 0.30645663976919985, "auc": 0.8969404186795492}
+{"kind": "cell", "rep": 2, "method": "DDC(cellWise)", "relfro": 0.28394852751558963, "auc": 0.9959514170040487}
+{"kind": "row", "rep": 0, "method": "DDC(cellWise)", "relfro": 0.30991489876403766, "auc": 0.9686234817813764}
+{"kind": "row", "rep": 1, "method": "DDC(cellWise)", "relfro": 0.3086680303879195, "auc": 0.89648033126294}
+{"kind": "row", "rep": 2, "method": "DDC(cellWise)", "relfro": 0.2686127625551868, "auc": 0.9981022267206477}

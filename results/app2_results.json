@@ -1,0 +1,69 @@
+{
+ "vols": {
+  "gauss": 0.10223703405503987,
+  "classical": 0.10480211521888744,
+  "alternative": 0.10981843077708174,
+  "dirichlet": 0.11164473400730286,
+  "npn": 0.16423815068425365,
+  "ddc": 0.1141728758680146
+ },
+ "vols_residual_gmv": {
+  "gauss": 0.012427260984194879,
+  "classical": 0.010988743133762897,
+  "alternative": 0.012971344734611926,
+  "dirichlet": 0.012751852406786689,
+  "npn": 0.009397788886959411,
+  "ddc": 0.008520495793236589
+ },
+ "dm_z": {
+  "gauss vs classical": -1.7495284159213973,
+  "gauss vs alternative": -4.322221237827812,
+  "gauss vs dirichlet": -3.2007195761684017,
+  "gauss vs npn": -2.1630513624848615,
+  "gauss vs ddc": -1.6317737632555656,
+  "classical vs alternative": -2.929599613895414,
+  "classical vs dirichlet": -2.1914372551964845,
+  "classical vs npn": -2.0774641026873915,
+  "classical vs ddc": -1.2348919056197538,
+  "alternative vs dirichlet": -0.9377056163154966,
+  "alternative vs npn": -2.002520462838734,
+  "alternative vs ddc": -0.6248276947083109,
+  "dirichlet vs npn": -2.0373303191064362,
+  "dirichlet vs ddc": -0.38173094026378934,
+  "npn vs ddc": 2.210162103915424
+ },
+ "dm_p_holm": {
+  "gauss vs classical": 0.4811983279891012,
+  "gauss vs alternative": 0.00023169927363948936,
+  "gauss vs dirichlet": 0.019191882601530368,
+  "gauss vs npn": 0.3251269679005546,
+  "gauss vs ddc": 0.5136357716475403,
+  "classical vs alternative": 0.044121871158931236,
+  "classical vs dirichlet": 0.3251269679005546,
+  "classical vs npn": 0.33982870588232794,
+  "classical vs ddc": 0.867482945352168,
+  "alternative vs dirichlet": 1.0,
+  "alternative vs npn": 0.33982870588232794,
+  "alternative vs ddc": 1.0,
+  "dirichlet vs npn": 0.33982870588232794,
+  "dirichlet vs ddc": 1.0,
+  "npn vs ddc": 0.3251269679005546
+ },
+ "turnover": {
+  "gauss": 0.6177323649139124,
+  "classical": 0.667663377356063,
+  "alternative": 0.760560396273577,
+  "dirichlet": 0.7350665459818044,
+  "npn": 0.045896293402099296,
+  "ddc": 0.19356577818928095
+ },
+ "n_windows": 9,
+ "n_oos": 21,
+ "n_stocks": 96,
+ "iters": [
+  300,
+  120
+ ],
+ "dirichlet_clusters": 3.471066666666665,
+ "universe": "point-in-time June-2023 NIFTY 100 membership (96 of 100 with usable history)"
+}

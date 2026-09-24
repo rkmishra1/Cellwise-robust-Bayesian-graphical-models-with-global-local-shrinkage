@@ -1,0 +1,222 @@
+[
+ {
+  "kind": "clean",
+  "rep": 0,
+  "model": "gauss",
+  "coverage_all": 0.9935897435897436,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.84375,
+  "auc_edgerep": 0.9978484291443851,
+  "auc_postmean": 0.9979528743315508,
+  "n_edges": 32
+ },
+ {
+  "kind": "clean",
+  "rep": 0,
+  "model": "dirichlet",
+  "coverage_all": 0.9974358974358974,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.9375,
+  "auc_edgerep": 0.9984542112299466,
+  "auc_postmean": 0.9985795454545455,
+  "n_edges": 32
+ },
+ {
+  "kind": "clean",
+  "rep": 1,
+  "model": "gauss",
+  "coverage_all": 0.9974358974358974,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.9428571428571428,
+  "auc_edgerep": 0.9997698945349953,
+  "auc_postmean": 0.9998082454458294,
+  "n_edges": 35
+ },
+ {
+  "kind": "clean",
+  "rep": 1,
+  "model": "dirichlet",
+  "coverage_all": 0.9961538461538462,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.9142857142857143,
+  "auc_edgerep": 0.9998082454458294,
+  "auc_postmean": 0.9998082454458294,
+  "n_edges": 35
+ },
+ {
+  "kind": "clean",
+  "rep": 2,
+  "model": "gauss",
+  "coverage_all": 0.9935897435897436,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.8387096774193549,
+  "auc_edgerep": 0.9994831818769111,
+  "auc_postmean": 0.999353977346139,
+  "n_edges": 31
+ },
+ {
+  "kind": "clean",
+  "rep": 2,
+  "model": "dirichlet",
+  "coverage_all": 0.9974358974358974,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.9354838709677419,
+  "auc_edgerep": 0.9991601705499806,
+  "auc_postmean": 0.9990955682845944,
+  "n_edges": 31
+ },
+ {
+  "kind": "clean",
+  "rep": 3,
+  "model": "gauss",
+  "coverage_all": 0.9948717948717949,
+  "coverage_zero": 0.9986522911051213,
+  "coverage_nonzero": 0.9210526315789473,
+  "auc_edgerep": 0.9994857426585332,
+  "auc_postmean": 0.9994680096467584,
+  "n_edges": 38
+ },
+ {
+  "kind": "clean",
+  "rep": 3,
+  "model": "dirichlet",
+  "coverage_all": 0.9974358974358974,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.9473684210526315,
+  "auc_edgerep": 0.9993970775996596,
+  "auc_postmean": 0.9993970775996596,
+  "n_edges": 38
+ },
+ {
+  "kind": "clean",
+  "rep": 4,
+  "model": "gauss",
+  "coverage_all": 0.9974358974358974,
+  "coverage_zero": 0.9986631016042781,
+  "coverage_nonzero": 0.96875,
+  "auc_edgerep": 0.9997911096256684,
+  "auc_postmean": 0.9997075534759359,
+  "n_edges": 32
+ },
+ {
+  "kind": "clean",
+  "rep": 4,
+  "model": "dirichlet",
+  "coverage_all": 0.9961538461538462,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.90625,
+  "auc_edgerep": 0.9994777740641712,
+  "auc_postmean": 0.9994151069518716,
+  "n_edges": 32
+ },
+ {
+  "kind": "cell",
+  "rep": 0,
+  "model": "gauss",
+  "coverage_all": 0.9538461538461539,
+  "coverage_zero": 0.9946524064171123,
+  "coverage_nonzero": 0.0,
+  "auc_edgerep": 0.6921373663101604,
+  "auc_postmean": 0.8332219251336899,
+  "n_edges": 32
+ },
+ {
+  "kind": "cell",
+  "rep": 0,
+  "model": "dirichlet",
+  "coverage_all": 0.9923076923076923,
+  "coverage_zero": 0.9986631016042781,
+  "coverage_nonzero": 0.84375,
+  "auc_edgerep": 0.9960519719251337,
+  "auc_postmean": 0.9961981951871658,
+  "n_edges": 32
+ },
+ {
+  "kind": "cell",
+  "rep": 1,
+  "model": "gauss",
+  "coverage_all": 0.9487179487179487,
+  "coverage_zero": 0.9932885906040269,
+  "coverage_nonzero": 0.0,
+  "auc_edgerep": 0.7395973154362416,
+  "auc_postmean": 0.8350143815915628,
+  "n_edges": 35
+ },
+ {
+  "kind": "cell",
+  "rep": 1,
+  "model": "dirichlet",
+  "coverage_all": 0.9948717948717949,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.8857142857142857,
+  "auc_edgerep": 0.9996164908916587,
+  "auc_postmean": 0.9995014381591563,
+  "n_edges": 35
+ },
+ {
+  "kind": "cell",
+  "rep": 2,
+  "model": "gauss",
+  "coverage_all": 0.958974358974359,
+  "coverage_zero": 0.9986648865153538,
+  "coverage_nonzero": 0.0,
+  "auc_edgerep": 0.7256126448167449,
+  "auc_postmean": 0.813859339334166,
+  "n_edges": 31
+ },
+ {
+  "kind": "cell",
+  "rep": 2,
+  "model": "dirichlet",
+  "coverage_all": 0.9884615384615385,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.7096774193548387,
+  "auc_edgerep": 0.9958439209268272,
+  "auc_postmean": 0.9953917050691244,
+  "n_edges": 31
+ },
+ {
+  "kind": "cell",
+  "rep": 3,
+  "model": "gauss",
+  "coverage_all": 0.9461538461538461,
+  "coverage_zero": 0.9946091644204852,
+  "coverage_nonzero": 0.0,
+  "auc_edgerep": 0.7232408852319477,
+  "auc_postmean": 0.867853596254788,
+  "n_edges": 38
+ },
+ {
+  "kind": "cell",
+  "rep": 3,
+  "model": "dirichlet",
+  "coverage_all": 0.9935897435897436,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.868421052631579,
+  "auc_edgerep": 0.9988828202581926,
+  "auc_postmean": 0.9988296212228686,
+  "n_edges": 38
+ },
+ {
+  "kind": "cell",
+  "rep": 4,
+  "model": "gauss",
+  "coverage_all": 0.9564102564102565,
+  "coverage_zero": 0.9973262032085561,
+  "coverage_nonzero": 0.0,
+  "auc_edgerep": 0.8483455882352942,
+  "auc_postmean": 0.8980614973262031,
+  "n_edges": 32
+ },
+ {
+  "kind": "cell",
+  "rep": 4,
+  "model": "dirichlet",
+  "coverage_all": 0.9948717948717949,
+  "coverage_zero": 1.0,
+  "coverage_nonzero": 0.875,
+  "auc_edgerep": 0.9980364304812834,
+  "auc_postmean": 0.9978693181818181,
+  "n_edges": 32
+ }
+]
